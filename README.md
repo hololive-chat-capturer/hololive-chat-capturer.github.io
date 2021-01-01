@@ -21,7 +21,7 @@ Thank you, Translators. 💖
 
 ### Screenshots
 
-<img src="screenshot/Screenshot_from_2020-09-09_00-33-55.png" alt="Screenshot">
+<img src="screenshot/no1.jpg" alt="Screenshot">
 
 ### Installation
   + [**Chrome** extension](https://chrome.google.com/webstore/detail/hololive-chat-capturer/pliahmbkngnekjceflkcjoejcnlbmfha)
