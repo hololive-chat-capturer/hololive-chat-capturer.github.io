@@ -22,6 +22,10 @@ Thank you, Translators. 💖
 ### Screenshots
 
 <img src="screenshot/no1.jpg" alt="Screenshot">
+<div>
+  <img src="screenshot/tut-1.jpg" alt="TUT-1" width="300px">
+  <img src="screenshot/tut-2.jpg" alt="TUT-2" width="300px">
+</div>
 
 ### Installation
   + [**Chrome** extension](https://chrome.google.com/webstore/detail/hololive-chat-capturer/pliahmbkngnekjceflkcjoejcnlbmfha)
@@ -121,7 +125,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg" title="Anya Melfissa"><img src="https://hc2-twitter-avatar-six.vercel.app/anyamelfissa" width="100px;" alt="Anya Melfissa"/><br/><sub><b>Anya Melfissa</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/anyamelfissa" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
   </tr>
   <tr>
-    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q" title="Pavolia Reina"><img src="https://hc2-twitter-avatar-six.vercel.app/pavoliareine" width="100px;" alt="Pavolia Reina"/><br/><sub><b>Pavolia Reina</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/pavoliareine" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q" title="Pavolia Reine"><img src="https://hc2-twitter-avatar-six.vercel.app/pavoliareine" width="100px;" alt="Pavolia Reine"/><br/><sub><b>Pavolia Reine</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/pavoliareine" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
   </tr>
   <th>Hololive EN</th>
   <tr>
@@ -133,6 +137,18 @@ Thanks goes to these wonderful people:
   </tr>
 </table>
 <!-- ALL-TALENTS-LIST:END -->
+
+### Hololive channels
+
+<table>
+  <tr>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg" title="hololive ホロライブ - VTuber Group"><img src="https://hc2-twitter-avatar-six.vercel.app/hololivetv" width="100px;" alt="hololive ホロライブ - VTuber Group"/><br/><sub><b>hololive ホロライブ - VTuber Group</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololivetv" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCWsfcksUUpoEvhia0_ut0bA" title="holostars ホロスターズ - VTuber Group"><img src="https://hc2-twitter-avatar-six.vercel.app/holostarstv" width="100px;" alt="holostars ホロスターズ - VTuber Group"/><br/><sub><b>holostars ホロスターズ - VTuber Group</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCWsfcksUUpoEvhia0_ut0bA" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/holostarstv" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/hololiveIndonesia" title="hololive Indonesia"><img src="https://hc2-twitter-avatar-six.vercel.app/hololive_Id" width="100px;" alt="hololive Indonesia"/><br/><sub><b>hololive Indonesia</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/hololiveIndonesia" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololive_Id" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg" title="hololive English"><img src="https://hc2-twitter-avatar-six.vercel.app/hololive_En" width="100px;" alt="hololive English"/><br/><sub><b>hololive English</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololive_En" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+  </tr>
+</table>
+
 
 ### Some Amazing tools
 
