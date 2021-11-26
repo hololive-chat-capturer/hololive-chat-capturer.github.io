@@ -90,6 +90,73 @@ Thanks goes to these wonderful people:
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA" title="Omaru Polka"><img src="https://hc2-twitter-avatar-six.vercel.app/omarupolka" width="100px;" alt="Omaru Polka"/><br/><sub><b>Omaru Polka</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/omarupolka" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgZuwn-O7Szh9cAgHqJ6vjw" title="Mano Aloe"><img src="https://hc2-twitter-avatar-six.vercel.app/manoaloe" width="100px;" alt="Mano Aloe"/><br/><sub><b>Mano Aloe</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgZuwn-O7Szh9cAgHqJ6vjw" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/manoaloe" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a><br><b>Graduated</b><br>Aug 31, 2020</td>
   </tr>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw" title="La+ Darknesss">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/LaplusDarknesss" width="100px;" alt="La+ Darknesss"/><br/>
+        <sub><b>La+ Darknesss</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/LaplusDarknesss" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g" title="Takane Lui">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/takanelui" width="100px;" alt="Takane Lui"/><br/>
+        <sub><b>Takane Lui</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/takanelui" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw" title="Hakui Koyori">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/hakuikoyori" width="100px;" alt="Hakui Koyori"/><br/>
+        <sub><b>Hakui Koyori</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hakuikoyori" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw" title="Sakamata Chloe">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/sakamatachloe" width="100px;" alt="Sakamata Chloe"/><br/>
+        <sub><b>Sakamata Chloe</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/sakamatachloe" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ" title="Kazama Iroha">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/kazamairohach" width="100px;" alt="Kazama Iroha"/><br/>
+        <sub><b>Kazama Iroha</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/kazamairohach" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
   <th>Holostars</th>
   <tr>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw" title="Hanasaki Miyabi"><img src="https://hc2-twitter-avatar-six.vercel.app/miyabihanasaki" width="100px;" alt="Hanasaki Miyabi"/><br/><sub><b>Hanasaki Miyabi</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/miyabihanasaki" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
