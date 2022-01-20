@@ -1,7 +1,7 @@
 # ![icon](img/icon-38x38.png) Hololive Chat Capturer ✨
 [![Chrome version][badge-cws]][link-cws] [![Firefox version][badge-amo]][link-amo] [![Microsoft Edge version][badge-edge]][link-edge]
 
-  [badge-cws]: https://img.shields.io/chrome-web-store/v/pliahmbkngnekjceflkcjoejcnlbmfha.svg
+  [badge-cws]: https://img.shields.io/chrome-web-store/v/pliahmbkngnekjceflkcjoejcnlbmfha
   [link-cws]: https://chrome.google.com/webstore/detail/hololive-chat-capturer/pliahmbkngnekjceflkcjoejcnlbmfha "Version published on Chrome Web Store"
   [badge-amo]: https://img.shields.io/amo/v/hololive-chat-capturer.svg
   [link-amo]: https://addons.mozilla.org/en-US/firefox/addon/hololive-chat-capturer/ "Version published on Mozilla Add-ons"
@@ -212,6 +212,16 @@ Thanks goes to these wonderful people:
   </tr>
 </table>
 <!-- ALL-TALENTS-LIST:END -->
+
+### Hololive Staffs
+
+<table>
+  <tr>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/achan_UGA" title="Yuujin-A (A-chan)"><img src="https://hc2-twitter-avatar-six.vercel.app/achan_UGA" width="100px;" alt="Yuujin-A (A-chan)"/><br/><sub><b>Yuujin-A (A-chan)</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/achan_UGA" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/daidoushinove" title="Shinove (holostars' manager)"><img src="https://hc2-twitter-avatar-six.vercel.app/daidoushinove" width="100px;" alt="Shinove (holostars' manager)"/><br/><sub><b>Shinove (holostars' manager)</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/daidoushinove" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/omegaalpha_en" title="Omegaα@holoEN"><img src="https://hc2-twitter-avatar-six.vercel.app/omegaalpha_en" width="100px;" alt="Omegaα@holoEN"/><br/><sub><b>Omegaα@holoEN</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/omegaalpha_en" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+  </tr>
+</table>
 
 ### Hololive channels
 
