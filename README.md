@@ -172,6 +172,60 @@ Thanks goes to these wonderful people:
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g" title="Kageyama Shien"><img src="https://hc2-twitter-avatar-six.vercel.app/kageyamashien" width="100px;" alt="Kageyama Shien"/><br/><sub><b>Kageyama Shien</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/kageyamashien" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA" title="Aragami Oga"><img src="https://hc2-twitter-avatar-six.vercel.app/aragamioga" width="100px;" alt="Aragami Oga"/><br/><sub><b>Aragami Oga</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/aragamioga" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
   </tr>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCc88OV45ICgHbn3ZqLLb52w" title="夜十神封魔 (Yatogami Fuma)">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/yatogamifuma" width="100px;" alt="夜十神封魔 (Yatogami Fuma)"/><br/>
+        <sub><b>Yatogami Fuma</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCc88OV45ICgHbn3ZqLLb52w" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/yatogamifuma" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgRqGV1gBf2Esxh0Tz1vxzw" title="羽継烏有 (Utsugi Uyu)">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/utsugiuyu" width="100px;" alt="羽継烏有 (Utsugi Uyu)"/><br/>
+        <sub><b>Utsugi Uyu</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgRqGV1gBf2Esxh0Tz1vxzw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/utsugiuyu" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCkT1u65YS49ca_LsFwcTakw" title="緋崎ガンマ (Hizaki Gamma)">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/hizakigamma" width="100px;" alt="緋崎ガンマ (Hizaki Gamma)"/><br/>
+        <sub><b>Hizaki Gamma</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCkT1u65YS49ca_LsFwcTakw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hizakigamma" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCdfMHxjcCc2HSd9qFvfJgjg" title="水無世燐央 (Minase Rio)">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/minaserioch" width="100px;" alt="水無世燐央 (Minase Rio)"/><br/>
+        <sub><b>Minase Rio</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCdfMHxjcCc2HSd9qFvfJgjg" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/minaserioch" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
   <th>Hololive CN</th>
   <tr>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/427061218" title="Yogiri"><img src="https://hc2-twitter-avatar-six.vercel.app/Yogiri_hololive" width="100px;" alt="Yogiri"/><br/><sub><b>Yogiri</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/427061218" title="Bilibili"><img src="img/bilibili.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Yogiri_hololive" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a><br><b>Graduated</b><br>Dec 20, 2020</td>
