@@ -244,9 +244,48 @@ Thanks goes to these wonderful people:
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg" title="Airani Iofifteen"><img src="https://hc2-twitter-avatar-six.vercel.app/airaniiofifteen" width="100px;" alt="Airani Iofifteen"/><br/><sub><b>Airani Iofifteen</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/airaniiofifteen" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ" title="Kureiji Ollie"><img src="https://hc2-twitter-avatar-six.vercel.app/kureijiollie" width="100px;" alt="Kureiji Ollie"/><br/><sub><b>Kureiji Ollie</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/kureijiollie" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg" title="Anya Melfissa"><img src="https://hc2-twitter-avatar-six.vercel.app/anyamelfissa" width="100px;" alt="Anya Melfissa"/><br/><sub><b>Anya Melfissa</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/anyamelfissa" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q" title="Pavolia Reine"><img src="https://hc2-twitter-avatar-six.vercel.app/pavoliareine" width="100px;" alt="Pavolia Reine"/><br/><sub><b>Pavolia Reine</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/pavoliareine" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
   </tr>
   <tr>
-    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q" title="Pavolia Reine"><img src="https://hc2-twitter-avatar-six.vercel.app/pavoliareine" width="100px;" alt="Pavolia Reine"/><br/><sub><b>Pavolia Reine</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/pavoliareine" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ" title="Vestia Zeta">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/vestiazeta" width="100px;" alt="Vestia Zeta"/><br/>
+        <sub><b>Vestia Zeta</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/vestiazeta" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg" title="Kaela Kovalskia">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/kaelakovalskia" width="100px;" alt="Kaela Kovalskia"/><br/>
+        <sub><b>Kaela Kovalskia</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/kaelakovalskia" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw" title="Kobo Kanaeru">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/kobokanaeru" width="100px;" alt="Kobo Kanaeru"/><br/>
+        <sub><b>Kobo Kanaeru</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/kobokanaeru" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
   </tr>
   <th>Hololive EN</th>
   <tr>
