@@ -303,6 +303,61 @@ Thanks goes to these wonderful people:
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA" title="Nanashi Mumei"><img src="https://hc2-twitter-avatar-six.vercel.app/v2/nanashimumei_en" width="100px;" alt="Nanashi Mumei"/><br/><sub><b>Nanashi Mumei</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/nanashimumei_en" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ" title="Hakos Baelz"><img src="https://hc2-twitter-avatar-six.vercel.app/v2/hakosbaelz" width="100px;" alt="Hakos Baelz"/><br/><sub><b>Hakos Baelz</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hakosbaelz" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
   </tr>
+  <th>Holostars English</th>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCyxtGMdWlURZ30WSnEjDOQw" title="Regis Altare / リージス・アルテア">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/v2/regisaltare" width="100px;" alt="Regis Altare / リージス・アルテア"/><br/>
+        <sub><b>Regis Altare</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCyxtGMdWlURZ30WSnEjDOQw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/regisaltare" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC7MMNHR-kf9EN1rXiesMTMw" title="Magni Dezmond / マグ二・デズモンド">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/v2/magnidezmond" width="100px;" alt="Magni Dezmond / マグ二・デズモンド"/><br/>
+        <sub><b>Magni Dezmond</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC7MMNHR-kf9EN1rXiesMTMw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/magnidezmond" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC2hx0xVkMoHGWijwr_lA01w" title="Axel Syrios / アクセル・シリオス">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/v2/axelsyrios" width="100px;" alt="Axel Syrios / アクセル・シリオス"/><br/>
+        <sub><b>Axel Syrios</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC2hx0xVkMoHGWijwr_lA01w" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/axelsyrios" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCDRWSO281bIHYVi-OV3iFYA" title="Noir Vesper / ノワール・ヴェスパー">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/v2/noirvesper_en" width="100px;" alt="Noir Vesper / ノワール・ヴェスパー"/><br/>
+        <sub><b>Noir Vesper</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCDRWSO281bIHYVi-OV3iFYA" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/noirvesper_en" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
 </table>
 <!-- ALL-TALENTS-LIST:END -->
 
@@ -350,7 +405,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololive_music" title="hololive music"><img src="https://hc2-twitter-avatar-six.vercel.app/v2/hololive_music" width="100px;" alt="hololive music"/><br/><sub><b>hololive music</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololive_music" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololive_event" title="hololive event"><img src="https://hc2-twitter-avatar-six.vercel.app/v2/hololive_event" width="100px;" alt="hololive event"/><br/><sub><b>hololive event</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololive_event" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/you_kururu" title="枢木ユウ"><img src="https://hc2-twitter-avatar-six.vercel.app/v2/you_kururu" width="100px;" alt="枢木ユウ"/><br/><sub><b>枢木ユウ - You Kururu</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/you_kururu" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
-    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/holopro_EN" title="holopro_EN"><img src="https://hc2-twitter-avatar-six.vercel.app/v2/holopro_EN" width="100px;" alt="holopro_EN"/><br/><sub><b>holopro_EN</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/holopro_EN" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololivepro_EN" title="hololivepro_EN"><img src="https://hc2-twitter-avatar-six.vercel.app/v2/hololivepro_EN" width="100px;" alt="hololivepro_EN"/><br/><sub><b>hololivepro_EN</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololivepro_EN" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
   </tr>
 </table>
 
