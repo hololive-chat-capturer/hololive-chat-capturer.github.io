@@ -358,6 +358,60 @@ Thanks goes to these wonderful people:
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCHP4f7G2dWD4qib7BMatGAw" title="Gavis Bettel / ガビス・ベッテル">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/v2/gavisbettel" width="100px;" alt="Gavis Bettel / ガビス・ベッテル"/><br/>
+        <sub><b>Gavis Bettel</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCHP4f7G2dWD4qib7BMatGAw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/gavisbettel" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC060r4zABV18vcahAWR1n7w" title="Machina X Flayon / マキナ・X・フレオン">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/v2/machinaxflayon" width="100px;" alt="Machina X Flayon / マキナ・X・フレオン"/><br/>
+        <sub><b>Machina X Flayon</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC060r4zABV18vcahAWR1n7w" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/machinaxflayon" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC7gxU6NXjKF1LrgOddPzgTw" title="Banzoin Hakka / 万象院ハッカ">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/v2/banzoinhakka" width="100px;" alt="Banzoin Hakka / 万象院ハッカ"/><br/>
+        <sub><b>Banzoin Hakka</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC7gxU6NXjKF1LrgOddPzgTw" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/banzoinhakka" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCMqGG8BRAiI1lJfKOpETM_w" title="Josuiji Shinri / 定水寺シンリ">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/v2/josuijishinri" width="100px;" alt="Josuiji Shinri / 定水寺シンリ"/><br/>
+        <sub><b>Josuiji Shinri</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCMqGG8BRAiI1lJfKOpETM_w" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/josuijishinri" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
 </table>
 <!-- ALL-TALENTS-LIST:END -->
 
