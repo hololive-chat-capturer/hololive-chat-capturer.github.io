@@ -303,6 +303,73 @@ Thanks goes to these wonderful people:
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA" title="Nanashi Mumei"><img src="https://hc2-twitter-avatar-six.vercel.app/nanashimumei_en" width="100px;" alt="Nanashi Mumei"/><br/><sub><b>Nanashi Mumei</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/nanashimumei_en" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ" title="Hakos Baelz"><img src="https://hc2-twitter-avatar-six.vercel.app/hakosbaelz" width="100px;" alt="Hakos Baelz"/><br/><sub><b>Hakos Baelz</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hakosbaelz" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
   </tr>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg" title="Shiori Novella / ガビス・ベッテル">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/shiorinovella" width="100px;" alt="Shiori Novella / シオリ・ノヴェラ"/><br/>
+        <sub><b>Shiori Novella</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/shiorinovella" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA" title="Koseki Bijou / 古石ビジュ―">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/kosekibijou" width="100px;" alt="Koseki Bijou / 古石ビジュ―"/><br/>
+        <sub><b>Koseki Bijou</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/kosekibijou" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg" title="Nerissa Ravencroft / ネリッサ・レイヴンクロフト">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/nerissa_en" width="100px;" alt="Nerissa Ravencroft / ネリッサ・レイヴンクロフト"/><br/>
+        <sub><b>Nerissa Ravencroft</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/nerissa_en" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA" title="Fuwawa Abyssgard / フワワ・アビスガード">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/fuwamoco_en" width="100px;" alt="Fuwawa Abyssgard / フワワ・アビスガード"/><br/>
+        <sub><b>Fuwawa Abyssgard</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/fuwamoco_en" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA" title="Mococo Abyssgard / モココ・アビスガード">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/fuwamoco_en" width="100px;" alt="Mococo Abyssgard / モココ・アビスガード"/><br/>
+        <sub><b>Mococo Abyssgard</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/fuwamoco_en" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
   <th>Holostars English</th>
   <tr>
     <td align="center">
