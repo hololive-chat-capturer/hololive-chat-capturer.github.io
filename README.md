@@ -157,6 +157,74 @@ Thanks goes to these wonderful people:
       </a>
     </td>
   </tr>
+  <th>DEV_IS</th>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@HiodoshiAo" title="Hiodoshi Ao / 火威青">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/hiodoshiao" width="100px;" alt="Hiodoshi Ao / 火威青"/><br/>
+        <sub><b>Hiodoshi Ao</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@HiodoshiAo" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hiodoshiao" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@OtonoseKanade" title="Otonose Kanade / 音乃瀬奏">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/otonosekanade" width="100px;" alt="Otonose Kanade / 音乃瀬奏"/><br/>
+        <sub><b>Otonose Kanade</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@OtonoseKanade" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/otonosekanade" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@IchijouRirika" title="Ichijou Ririka / 一条莉々華">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/ichijouririka" width="100px;" alt="Ichijou Ririka / 一条莉々華"/><br/>
+        <sub><b>Ichijou Ririka</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@IchijouRirika" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/ichijouririka" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@JuufuuteiRaden" title="Juufuutei Raden / 儒烏風亭らでん">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/juufuuteiraden" width="100px;" alt="Juufuutei Raden / 儒烏風亭らでん"/><br/>
+        <sub><b>Juufuutei Raden</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@JuufuuteiRaden" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/juufuuteiraden" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@TodorokiHajime " title="Todoroki Hajime / 轟はじめ">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/todoroki_hajime" width="100px;" alt="Todoroki Hajime / 轟はじめ"/><br/>
+        <sub><b>Todoroki Hajime</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@TodorokiHajime " title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/todoroki_hajime" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
   <th>Holostars</th>
   <tr>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw" title="Hanasaki Miyabi"><img src="https://hc2-twitter-avatar-six.vercel.app/miyabihanasaki" width="100px;" alt="Hanasaki Miyabi"/><br/><sub><b>Hanasaki Miyabi</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw" title="YouTube"><img src="img/youtube.svg" width="20px;" alt=""/></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/miyabihanasaki" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
@@ -397,6 +465,7 @@ Thanks goes to these wonderful people:
       <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/magnidezmond" title="Twitter">
         <img src="img/twitter.svg" width="20px;" alt=""/>
       </a>
+      <br><b>Graduated</b><br>Aug 31, 2023
     </td>
     <td align="center">
       <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UC2hx0xVkMoHGWijwr_lA01w" title="Axel Syrios / アクセル・シリオス">
@@ -423,6 +492,7 @@ Thanks goes to these wonderful people:
       <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/noirvesper_en" title="Twitter">
         <img src="img/twitter.svg" width="20px;" alt=""/>
       </a>
+      <br><b>Graduated</b><br>Aug 31, 2023
     </td>
   </tr>
   <tr>
@@ -527,6 +597,17 @@ Thanks goes to these wonderful people:
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololive_event" title="hololive event"><img src="https://hc2-twitter-avatar-six.vercel.app/hololive_event" width="100px;" alt="hololive event"/><br/><sub><b>hololive event</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololive_event" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/you_kururu" title="枢木ユウ"><img src="https://hc2-twitter-avatar-six.vercel.app/you_kururu" width="100px;" alt="枢木ユウ"/><br/><sub><b>枢木ユウ - You Kururu</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/you_kururu" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololivepro_EN" title="hololivepro_EN"><img src="https://hc2-twitter-avatar-six.vercel.app/hololivepro_EN" width="100px;" alt="hololivepro_EN"/><br/><sub><b>hololivepro_EN</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hololivepro_EN" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/@hololiveDEV_IS" title="hololive DEV_IS">
+        <img src="https://yt3.googleusercontent.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s176-c-k-c0x00ffffff-no-rj" width="100px;" alt="hololive DEV_IS"/><br/>
+        <sub><b>hololive DEV_IS</b></sub>
+      </a><br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCNoxM_Kxoa-_gOtoyjbux7Q" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+    </td>
   </tr>
 </table>
 
