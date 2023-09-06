@@ -604,7 +604,7 @@ Thanks goes to these wonderful people:
         <img src="https://yt3.googleusercontent.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s176-c-k-c0x00ffffff-no-rj" width="100px;" alt="hololive DEV_IS"/><br/>
         <sub><b>hololive DEV_IS</b></sub>
       </a><br/>
-      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCNoxM_Kxoa-_gOtoyjbux7Q" title="YouTube">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@hololiveDEV_IS" title="YouTube">
         <img src="img/youtube.svg" width="20px;" alt=""/>
       </a>
     </td>
