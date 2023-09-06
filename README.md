@@ -557,7 +557,18 @@ Thanks goes to these wonderful people:
 <table>
   <tr>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/achan_UGA" title="Yuujin-A (A-chan)"><img src="https://hc2-twitter-avatar-six.vercel.app/achan_UGA" width="100px;" alt="Yuujin-A (A-chan)"/><br/><sub><b>Yuujin-A (A-chan)</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/achan_UGA" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
-    <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/daidoushinove" title="Shinove (holostars' manager)"><img src="https://hc2-twitter-avatar-six.vercel.app/daidoushinove" width="100px;" alt="Shinove (holostars' manager)"/><br/><sub><b>Shinove (holostars' manager)</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/daidoushinove" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/daidoushinove" title="Shinove (holostars' manager)">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/daidoushinove" width="100px;" alt="Shinove (holostars' manager)"/>
+        <br/>
+        <sub><b>Shinove (holostars' manager)</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/daidoushinove" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+      <br><b>Retired</b><br>Oct 24, 2022
+    </td>
     <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/omegaalpha_en" title="Omegaα@holoEN"><img src="https://hc2-twitter-avatar-six.vercel.app/omegaalpha_en" width="100px;" alt="Omegaα@holoEN"/><br/><sub><b>Omegaα@holoEN</b></sub></a><br/><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/omegaalpha_en" title="Twitter"><img src="img/twitter.svg" width="20px;" alt=""/></a></td>
     <td align="center">
     <a
