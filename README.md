@@ -549,6 +549,60 @@ Thanks goes to these wonderful people:
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@JurardTRexford" title="Jurard T Rexford">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/jurardtrexford" width="100px;" alt="Jurard T Rexford"/><br/>
+        <sub><b>Jurard T Rexford</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@JurardTRexford" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/jurardtrexford" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Goldbulletch" title="Goldbullet">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/goldbullet_en" width="100px;" alt="Goldbullet"/><br/>
+        <sub><b>Goldbullet</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Goldbulletch" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/goldbullet_en" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Octavio_en" title="Octavio">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/octavio_holo" width="100px;" alt="Octavio"/><br/>
+        <sub><b>Octavio</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Octavio_en" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/octavio_holo" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@CrimzonRuze" title="Crimzon Ruze">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/crimzonruze" width="100px;" alt="Crimzon Ruze"/><br/>
+        <sub><b>Crimzon Ruze</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@CrimzonRuze" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/crimzonruze" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
 </table>
 <!-- ALL-TALENTS-LIST:END -->
 
