@@ -438,6 +438,60 @@ Thanks goes to these wonderful people:
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@holoen_erbloodflame" title="Elizabeth Rose Bloodflame / エリザベス・ローズ・ブラッドフレイム">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/ERBloodflame" width="100px;" alt="Elizabeth Rose Bloodflame / エリザベス・ローズ・ブラッドフレイム"/><br/>
+        <sub><b>Elizabeth Rose Bloodflame</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@holoen_erbloodflame" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/ERBloodflame" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@holoen_gigimurin" title="Gigi Murin / ジジ・ムリン">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/gigimurin" width="100px;" alt="Gigi Murin / ジジ・ムリン"/><br/>
+        <sub><b>Gigi Murin</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@holoen_gigimurin" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/gigimurin" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@holoen_ceciliaimmergreen" title="Cecilia Immergreen / セシリア・イマーグリーン">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/ceciliaimgreen" width="100px;" alt="Cecilia Immergreen / セシリア・イマーグリーン"/><br/>
+        <sub><b>Cecilia Immergreen</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@holoen_ceciliaimmergreen" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/ceciliaimgreen" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@holoen_raorapanthera" title="Raora Panthora / ラオーラ・パンテーラ">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/raorapanthera" width="100px;" alt="Raora Panthora / ラオーラ・パンテーラ"/><br/>
+        <sub><b>Raora Panthora</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@holoen_raorapanthera" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/raorapanthera" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
   <th>Holostars English</th>
   <tr>
     <td align="center">
