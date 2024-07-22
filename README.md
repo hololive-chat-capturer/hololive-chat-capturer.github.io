@@ -279,6 +279,7 @@ Thanks goes to these wonderful people:
       <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/hizakigamma" title="Twitter">
         <img src="img/twitter.svg" width="20px;" alt=""/>
       </a>
+      <br><b>Graduated</b><br>Jul 17, 2024
     </td>
     <td align="center">
       <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCdfMHxjcCc2HSd9qFvfJgjg" title="水無世燐央 (Minase Rio)">
