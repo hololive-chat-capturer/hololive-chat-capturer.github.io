@@ -157,7 +157,7 @@ Thanks goes to these wonderful people:
       </a>
     </td>
   </tr>
-  <th>DEV_IS</th>
+  <th>DEV_IS: ReGLOSS</th>
   <tr>
     <td align="center">
       <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@HiodoshiAo" title="Hiodoshi Ao / 火威青">
@@ -212,15 +212,83 @@ Thanks goes to these wonderful people:
       </a>
     </td>
     <td align="center">
-      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@TodorokiHajime " title="Todoroki Hajime / 轟はじめ">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@TodorokiHajime" title="Todoroki Hajime / 轟はじめ">
         <img src="https://hc2-twitter-avatar-six.vercel.app/todoroki_hajime" width="100px;" alt="Todoroki Hajime / 轟はじめ"/><br/>
         <sub><b>Todoroki Hajime</b></sub>
       </a>
       <br/>
-      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@TodorokiHajime " title="YouTube">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@TodorokiHajime" title="YouTube">
         <img src="img/youtube.svg" width="20px;" alt=""/>
       </a>
       <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/todoroki_hajime" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+  </tr>
+  <th>DEV_IS: FLOW GLOW</th>
+  <tr>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@IsakiRiona" title="Isaki Riona / 響咲リオナ">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/isakiriona" width="100px;" alt="Isaki Riona / 響咲リオナ"/><br/>
+        <sub><b>Isaki Riona</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@IsakiRiona" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/isakiriona" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@KoganeiNiko" title="Koganei Niko / 虎金妃笑虎">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/koganeiniko" width="100px;" alt="Koganei Niko / 虎金妃笑虎"/><br/>
+        <sub><b>Koganei Niko</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://youtube.com/@KoganeiNiko" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/koganeiniko" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@MizumiyaSu" title="Mizumiya Su / 水宮枢">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/mizumiya_su" width="100px;" alt="Mizumiya Su / 水宮枢"/><br/>
+        <sub><b>Mizumiya Su</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@MizumiyaSu" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/mizumiya_su" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@RindoChihaya" title="Rindo Chihaya / 輪堂千速">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/rindochihaya" width="100px;" alt="Rindo Chihaya / 輪堂千速"/><br/>
+        <sub><b>Rindo Chihaya</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@RindoChihaya" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/rindochihaya" title="Twitter">
+        <img src="img/twitter.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@KikiraraVivi" title="Kikirara Vivi / 綺々羅々ヴィヴィ">
+        <img src="https://hc2-twitter-avatar-six.vercel.app/kikiraravivi" width="100px;" alt="Kikirara Vivi / 綺々羅々ヴィヴィ"/><br/>
+        <sub><b>Kikirara Vivi</b></sub>
+      </a>
+      <br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@KikiraraVivi" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/kikiraravivi" title="Twitter">
         <img src="img/twitter.svg" width="20px;" alt=""/>
       </a>
     </td>
@@ -720,11 +788,20 @@ Thanks goes to these wonderful people:
   </tr>
   <tr>
     <td align="center">
-      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/@hololiveDEV_IS" title="hololive DEV_IS">
-        <img src="https://yt3.googleusercontent.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s176-c-k-c0x00ffffff-no-rj" width="100px;" alt="hololive DEV_IS"/><br/>
-        <sub><b>hololive DEV_IS</b></sub>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/@hololiveDEV_IS" title="hololive DEV_IS ReGLOSS">
+        <img src="https://yt3.googleusercontent.com/bFwoEOlyG7wWIhu-6tPRCJujrkqFWX9K0lj9udB_mruynd0fw2Erltij5t9tB626eEQTvscS=s160-c-k-c0x00ffffff-no-rj" width="100px;" alt="hololive DEV_IS ReGLOSS"/><br/>
+        <sub><b>hololive DEV_IS ReGLOSS</b></sub>
       </a><br/>
       <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@hololiveDEV_IS" title="YouTube">
+        <img src="img/youtube.svg" width="20px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/@DEV_IS_FLOWGLOW" title="hololive DEV_IS FLOW GLOW">
+        <img src="https://yt3.googleusercontent.com/ypxkfw18lthQENaCFsvuWT5dBtoIkDnFpMc8NASkgwFSospslVrIwt5gFZeq9TerPYeQktoS=s160-c-k-c0x00ffffff-no-rj" width="100px;" alt="hololive DEV_IS FLOW GLOW"/><br/>
+        <sub><b>hololive DEV_IS FLOW GLOW</b></sub>
+      </a><br/>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@DEV_IS_FLOWGLOW" title="YouTube">
         <img src="img/youtube.svg" width="20px;" alt=""/>
       </a>
     </td>
